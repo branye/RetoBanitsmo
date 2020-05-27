@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Acceder al portal web de banitsmo y abrir el archivo de pdf de tarifas de cuentas de deposito" skipped="0" tests="1" time="4.5" timestamp="2020-05-27 10:53:26"><testcase name="El usuario accede al portal web de banitsmo e ingresa a la opcion del menu inferior tarifario para abrir el pdf"><error message="session not created: This version of ChromeDriver only supports Chrome version 83&#10;Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'&#10;System info: host: 'DESKTOP-JTMS4GF', ip: '192.168.42.163', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'&#10;Driver info: driver.version: CustomDriver&#10;remote stacktrace: Backtrace:&#10;&#9;Ordinal0 [0x006F9563+2725219]&#10;&#9;Ordinal0 [0x005F8551+1672529]&#10;&#9;Ordinal0 [0x004E0359+525145]&#10;&#9;Ordinal0 [0x00470B77+68471]&#10;&#9;Ordinal0 [0x0046D32C+54060]&#10;&#9;Ordinal0 [0x0048CC37+183351]&#10;&#9;Ordinal0 [0x0048CA3D+182845]&#10;&#9;Ordinal0 [0x0048A94B+174411]&#10;&#9;Ordinal0 [0x00472528+75048]&#10;&#9;Ordinal0 [0x004735A0+79264]&#10;&#9;Ordinal0 [0x00473539+79161]&#10;&#9;Ordinal0 [0x0060D607+1758727]&#10;&#9;GetHandleVerifier [0x00816546+1050150]&#10;&#9;GetHandleVerifier [0x00816291+1049457]&#10;&#9;GetHandleVerifier [0x008210D7+1094071]&#10;&#9;GetHandleVerifier [0x00816B46+1051686]&#10;&#9;Ordinal0 [0x00605B06+1727238]&#10;&#9;Ordinal0 [0x0060EB7B+1764219]&#10;&#9;Ordinal0 [0x0060ECE3+1764579]&#10;&#9;Ordinal0 [0x00624C05+1854469]&#10;&#9;BaseThreadInitThunk [0x77146359+25]&#10;&#9;RtlGetAppContainerNamedObjectPath [0x77A87C24+228]&#10;&#9;RtlGetAppContainerNamedObjectPath [0x77A87BF4+180]&#10;&#10;Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'&#10;System info: host: 'DESKTOP-JTMS4GF', ip: '192.168.42.163', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'&#10;Driver info: driver.version: CustomDriver" type="org.openqa.selenium.SessionNotCreatedException">session not created: This version of ChromeDriver only supports Chrome version 83
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-JTMS4GF', ip: '192.168.42.163', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: driver.version: CustomDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x006F9563+2725219]
+	Ordinal0 [0x005F8551+1672529]
+	Ordinal0 [0x004E0359+525145]
+	Ordinal0 [0x00470B77+68471]
+	Ordinal0 [0x0046D32C+54060]
+	Ordinal0 [0x0048CC37+183351]
+	Ordinal0 [0x0048CA3D+182845]
+	Ordinal0 [0x0048A94B+174411]
+	Ordinal0 [0x00472528+75048]
+	Ordinal0 [0x004735A0+79264]
+	Ordinal0 [0x00473539+79161]
+	Ordinal0 [0x0060D607+1758727]
+	GetHandleVerifier [0x00816546+1050150]
+	GetHandleVerifier [0x00816291+1049457]
+	GetHandleVerifier [0x008210D7+1094071]
+	GetHandleVerifier [0x00816B46+1051686]
+	Ordinal0 [0x00605B06+1727238]
+	Ordinal0 [0x0060EB7B+1764219]
+	Ordinal0 [0x0060ECE3+1764579]
+	Ordinal0 [0x00624C05+1854469]
+	BaseThreadInitThunk [0x77146359+25]
+	RtlGetAppContainerNamedObjectPath [0x77A87C24+228]
+	RtlGetAppContainerNamedObjectPath [0x77A87BF4+180]
+
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-JTMS4GF', ip: '192.168.42.163', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: driver.version: CustomDriver</error><system-err>session not created: This version of ChromeDriver only supports Chrome version 83
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-JTMS4GF', ip: '192.168.42.163', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: driver.version: CustomDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x006F9563+2725219]
+	Ordinal0 [0x005F8551+1672529]
+	Ordinal0 [0x004E0359+525145]
+	Ordinal0 [0x00470B77+68471]
+	Ordinal0 [0x0046D32C+54060]
+	Ordinal0 [0x0048CC37+183351]
+	Ordinal0 [0x0048CA3D+182845]
+	Ordinal0 [0x0048A94B+174411]
+	Ordinal0 [0x00472528+75048]
+	Ordinal0 [0x004735A0+79264]
+	Ordinal0 [0x00473539+79161]
+	Ordinal0 [0x0060D607+1758727]
+	GetHandleVerifier [0x00816546+1050150]
+	GetHandleVerifier [0x00816291+1049457]
+	GetHandleVerifier [0x008210D7+1094071]
+	GetHandleVerifier [0x00816B46+1051686]
+	Ordinal0 [0x00605B06+1727238]
+	Ordinal0 [0x0060EB7B+1764219]
+	Ordinal0 [0x0060ECE3+1764579]
+	Ordinal0 [0x00624C05+1854469]
+	BaseThreadInitThunk [0x77146359+25]
+	RtlGetAppContainerNamedObjectPath [0x77A87C24+228]
+	RtlGetAppContainerNamedObjectPath [0x77A87BF4+180]
+
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-JTMS4GF', ip: '192.168.42.163', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: driver.version: CustomDriver&#13;
+co.com.sophos.certification.challenge.util.driver.CustomDriver.&lt;init&gt;(CustomDriver.java:26)&#13;
+co.com.sophos.certification.challenge.util.driver.CustomDriver.chromeDriver(CustomDriver.java:31)&#13;
+co.com.sophos.certification.challenge.stepdefinitions.BanistmoAbrirPdfStepdefinitions.setUpStage(BanistmoAbrirPdfStepdefinitions.java:26)&#13;
+cucumber.runner.UnskipableStep.executeStep(UnskipableStep.java:22)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>

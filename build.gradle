@@ -1,0 +1,30 @@
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'idea'
+
+repositories {
+    // Use jcenter for resolving your dependencies.
+    // You can declare any Maven/Ivy/file repository here.
+    mavenCentral()
+}
+
+
+dependencies {
+    // This dependency is used internally, and not exposed to consumers on their own compile classpath.
+    implementation 'com.google.guava:guava:26.0-jre'
+
+    // Use JUnit test framework
+    testImplementation 'junit:junit:4.12'
+    testImplementation 'net.serenity-bdd:serenity-core:1.1.1'
+    testImplementation 'net.serenity-bdd:serenity-junit:1.1.1'
+    testImplementation('junit:junit:4.12')
+    testImplementation('org.assertj:assertj-core:1.7.0')
+    testImplementation 'org.slf4j:slf4j-simple:1.7.7'
+    testImplementation group: 'com.codoid.products', name: 'fillo', version: '1.18'
+
+    testImplementation 'net.serenity-bdd:serenity-core:1.9.9'
+    testImplementation 'net.serenity-bdd:serenity-junit:1.9.9'
+    testImplementation 'net.serenity-bdd:serenity-cucumber:1.9.5'
+    testImplementation 'net.serenity-bdd:serenity-screenplay:1.9.9'
+    testImplementation 'net.serenity-bdd:serenity-screenplay-webdriver:1.9.9'
+}
