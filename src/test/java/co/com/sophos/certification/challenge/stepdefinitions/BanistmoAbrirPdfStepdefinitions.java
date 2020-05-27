@@ -23,7 +23,7 @@ public class BanistmoAbrirPdfStepdefinitions {
 	
 	@Before
 	public void setUpStage() {
-		user.can(BrowseTheWeb.with(CustomDriver.chromeDriver().onPageURL("https://www.plazavea.com.pe/")));
+		user.can(BrowseTheWeb.with(CustomDriver.chromeDriver().onPageURL("https://www.banistmo.com/wps/portal/banistmo/personas/")));
 	}
 
 	@Given("^El usuario ingresa a la pagina de banitsmo$")

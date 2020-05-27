@@ -36,9 +36,4 @@ public class CustomDriver {
 		return driver;
 	}
 	
-	public void scrollDown() {
-		JavascriptExecutor js = ((JavascriptExecutor) driver);
-		js.executeScript("window.scrollBy(0,500)");
-	}
-
 }
