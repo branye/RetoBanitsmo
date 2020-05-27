@@ -11,4 +11,4 @@ Feature: Acceder al portal web de banitsmo y abrir el archivo de pdf de tarifas 
     Examples:
       | id | menu   | documento                                        | ruta |
       ##@externaldata@./src/test/resources/co/com/sophos/certification/challenge/externaldata/banistmo.xlsx@Sheet1
-      | 1 | Tarifario | Tarifas de Cuentas de Depósitos | https://www.banistmo.com/wps/wcm/aldata@./src/test/resources/co/com/sophos/certification/reto/data/banconnect/aae1f540-6e90-4974-a27b-b8867a5fd2c9/S56_ActualizacionTarifarioDepositos_Dic2019+%281%29+%282%29.pdf?MOD=AJPERES&CVID=n8g171g |
+      | 1 | Tarifario | Tarifas de Cuentas de Depósitos | https://www.banistmo.com/wps/wcm/connect/aae1f540-6e90-4974-a27b-b8867a5fd2c9/S56_ActualizacionTarifarioDepositos_Dic2019+%281%29+%282%29.pdf?MOD=AJPERES&CVID=n8g171g |
